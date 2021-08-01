@@ -1,0 +1,16 @@
+{
+     "title": "Title 1",
+     "type": "Type 1",
+     "termstart": "2021-03-30",
+     "termend": "2021-03-30",
+     "timestart": "11:00:00",
+     "timeend": "11:00:00",
+     "size": 1,
+     "tags": "Tags 1",
+     "location": "Location 1",
+     "extra": "Extra 1",
+     "image": "image 1",
+     "leader": 1,
+     "link": "Link 1",
+     "activate": "N"
+}
